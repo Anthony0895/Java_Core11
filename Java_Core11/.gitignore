@@ -1,0 +1,7 @@
+/bin/
+# Default excludes
+
+.classpath
+.settings/
+*.class
+.project
